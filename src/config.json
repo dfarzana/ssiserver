@@ -1,0 +1,11 @@
+{
+    "dbConfig": {
+        "server": "database-1.cct6wtuq4c6a.ap-southeast-1.rds.amazonaws.com",
+        "port": 1433,
+        "user": "admin",
+        "password": "4WXQnRtjk6dSWFw3mlL0",
+        "database": "ssi"
+    },
+    "cronTime": "0 7 * * 0",
+    "quorum": 5
+}
